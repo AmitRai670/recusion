@@ -2,7 +2,7 @@ package Com.Recursion.Array;
 
 public class Sorted {
     public static void main(String[] args){
-    int[] arr = {1,2,3,4,7,9};
+    int[] arr = {1,2,3,8,4,7,9};
     System.out.println(sorted(arr,0));
 
     }
